@@ -5,3 +5,5 @@ Head to [Releases](https://github.com/yashas123/animepahe-downloader/releases) t
 Right now it's a simple script which doesn't have any particular GUI (don't know if it ever will have). I'll try to update it as soon as any bugs are found or if the download feature gets patched.
 
 Download the latest version from either releases or by using this link : [series.exe](https://github.com/yashas123/animepahe-downloader/releases/latest/download/series.exe)
+
+**NOTE: DO NOT ASK FOR SOURCE FILES. EXPOSING THE SOURCE FILES MIGHT JUST HELP THE WEBSITES TO PATCH OR CHANGE THE DOWNLOADING METHODS**
