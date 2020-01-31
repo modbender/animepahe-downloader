@@ -1,7 +1,7 @@
 # Animepahe Downloader
 As the title says it's a simple downloader for animepahe.com anime videos. Thought I should make it since they provide downsized anime videos, second to soulreaperzone.com
 
-### Requirements1
+### Requirements
 - Remember to allow any firewall access when asked.
 - Due to cloudflare's javascript challenge, you now need to have Firefox browser to be installed and added to `PATH` to bypass it.
 - Please google on ways to add firefox to path. Usually on Windows OS, Firefox is automatically added to PATH if downloaded and installed from the full version installer instead of portable or other sources. Full version installer link : https://www.mozilla.org/en-US/firefox/new/
