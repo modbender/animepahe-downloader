@@ -3,7 +3,7 @@ As the title says it's a simple downloader for animepahe.com anime videos. Thoug
 
 ### Requirements
 - Remember to allow any firewall access when asked.
-- Due to cloudflare's javascript challenge, you now need to have Firefox browser to be installed and added to `PATH` to bypass it.
+- ~~Due to cloudflare's javascript challenge,~~ You now need to have Firefox browser to be installed and added to `PATH` to bypass it.
 - Please google on ways to add firefox to path. Usually on Windows OS, Firefox is automatically added to PATH if downloaded and installed from the full version installer instead of portable or other sources. Full version installer link : https://www.mozilla.org/en-US/firefox/new/
 
 Head to [Releases](https://github.com/yashas123/animepahe-downloader/releases) to check out the all versions of the downloader.
