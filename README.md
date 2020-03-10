@@ -1,6 +1,9 @@
 # Animepahe Downloader
 As the title says it's a simple downloader for animepahe.com anime videos. Thought I should make it since they provide downsized anime videos, second to soulreaperzone.com
 
+# README
+The downloader has not been working due to kwik changing their working ways, it will be fixed soon. Please wait for the next release.
+
 ### Requirements
 - Remember to allow any firewall access when asked.
 - ~~Due to cloudflare's javascript challenge,~~ You now need to have Firefox browser to be installed and added to `PATH` to bypass it.
